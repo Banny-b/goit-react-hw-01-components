@@ -1,0 +1,28 @@
+.transactionHistory {
+    width: 375px;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.evenRow {
+    background-color: #ffffff;
+}
+
+.oddRow {
+    background-color: #eee8e8;
+}
+
+.tableHeadCell {
+    width: 125px;
+    height: 30px;
+    background-color: #5fc1e7;
+    color: #d9f8f7;
+    font-size: 15px;
+}
+
+.tableCell {
+    text-align: center;
+    height: 30px;
+    color: #645f5f;
+    font-size: 13px;
+}

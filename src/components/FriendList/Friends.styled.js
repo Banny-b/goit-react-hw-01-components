@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const FriendsList = styled.ul`
     margin: 0 auto;
-    margin-bottom: 40px;
+    margin-bottom: 60px;
     display: flex;
     flex-direction: column;
     align-items: center;
