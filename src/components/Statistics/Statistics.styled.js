@@ -33,12 +33,12 @@ export const StatItem = styled.li`
 `;
 
 export const Label = styled.span`
-    color: #000000;
+    color: #f5f5f5;
     font-size: 12px;
     margin-bottom: 5px;
 `;
 
 export const Percentage = styled.span`
-    color: #000000;
+    color: #f5f5f5;
     font-size: 20px;
 `;
