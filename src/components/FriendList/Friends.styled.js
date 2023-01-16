@@ -14,7 +14,7 @@ export const FriendItem = styled.li`
     display: flex;
     align-items: center;
     gap: 15px;
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 3px 8px;
     background-color: white;
     cursor: pointer;
 `;

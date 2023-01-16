@@ -7,7 +7,7 @@ export const StatSection = styled.section`
     margin: auto;
     margin-bottom: 60px;
     border-radius: 4px;
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 3px 8px;
     overflow: hidden;
 `;
 
